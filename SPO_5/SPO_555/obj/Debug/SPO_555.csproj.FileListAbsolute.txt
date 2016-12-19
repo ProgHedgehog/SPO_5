@@ -1,0 +1,12 @@
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\bin\Debug\SPO_555.exe.config
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\bin\Debug\SPO_555.exe
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\bin\Debug\SPO_555.pdb
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\obj\Debug\SPO_555.csprojResolveAssemblyReference.cache
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\obj\Debug\SPO_555.exe
+c:\users\rushan\documents\visual studio 2013\Projects\SPO_555\SPO_555\obj\Debug\SPO_555.pdb
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\bin\Debug\SPO_555.exe.config
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\obj\Debug\SPO_555.exe
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\obj\Debug\SPO_555.pdb
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\bin\Debug\SPO_555.exe
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\bin\Debug\SPO_555.pdb
+C:\Users\User\Desktop\Универ\СПО\5\SPO_555\SPO_555\obj\Debug\SPO_555.csprojResolveAssemblyReference.cache
